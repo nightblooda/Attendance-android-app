@@ -11,5 +11,4 @@ What are technologies or features implemented:
 6. AsyncTask on background thred
 7. Sqlite CRUD operation
 
-Note: This is a simple application and it donot necessary to use all above technologies but to learn best practice of making application 
-they are implemented. And one should use them.
+Note: Pending...
